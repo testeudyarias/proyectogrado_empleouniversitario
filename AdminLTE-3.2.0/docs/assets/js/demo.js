@@ -514,7 +514,8 @@
     $(this).removeClass().addClass('custom-select mb-3 text-light border-0 ')
 
     if (navbar_dark_skins.indexOf(color) > -1) {
-      $main_header.addClass('navbar-dark')
+      //$main_header.addClass('navbar-dark')
+      $main_header.addClass('navbar-light')
       $(this).addClass(color).addClass('text-light')
     } else {
       $main_header.addClass('navbar-light')
