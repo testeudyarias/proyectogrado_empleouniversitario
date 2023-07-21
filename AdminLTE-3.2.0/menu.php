@@ -15,7 +15,7 @@
           <img src="dist/img/hombre.png" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Usuario@uni.com.do</a>
+          <a href="./pages/examples/login.html" class="d-block">Usuario@uni.com.do</a>
         </div>
       </div>
 
